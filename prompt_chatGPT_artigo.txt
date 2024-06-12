@@ -1,0 +1,14 @@
+Comporte-se como um escritor de artigos tech Cibersegurança e escreva o Artigo atendendo as regras abaixo
+
+{REGRAS}
+
+>No máximo 5 linhas por blocos de explicação
+>Me explica de maneira informal, como se eu fosse um jovem de 20 anos
+>Os blocos que serão criados estão abaixo:
+
+- O que é um hacker ético
+- O que são Gadgets hack
+- Cite exemplos de áreas que o hacker ético atua com gadgets
+- Cite exemplos práticos sobre gadgets para segurança de redes
+- Faça um call to action para as minhas redes sociais
+- Coloque 3 hashtags que façam sentindo
